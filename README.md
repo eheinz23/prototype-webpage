@@ -1,3 +1,3 @@
 # Prototype Webpage with Vue 3 + Vite
 
-TSimple page with pictures, components and established translation files. Pictures are licence free from https://www.pexels.com and not my own.
+Simple page with pictures, components and established translation files. Pictures are licence free from https://www.pexels.com and not my own.
