@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cardId_a1234",
+    "image": "/images/stockphoto1.jpg",
+    "tags": ["UI", "Frontend"],
+    "relevance": 0
+  },
+  {
+    "id": "cardId_b5678",
+    "image": "/images/stockphoto2.jpg",
+    "tags": ["Photography", "UI"],
+    "relevance": 0
+  },
+  {
+    "id": "cardId_c6789",
+    "image": "/images/stockphoto3.jpg",
+    "tags": ["Design", "UI"],
+    "relevance": 0
+  },
+  {
+    "id": "cardId_d1234",
+    "image": "/images/stockphoto4.jpg",
+    "tags": ["Design", "Photography"],
+    "relevance": 0
+  }
+]

@@ -1,0 +1,32 @@
+.btn-transparent {
+  border: 1px solid var(--color-grey);
+  transition: var(--transition-fast);
+}
+
+.btn-transparent:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-color: var(--color-light-grey);
+  color: var(--color-white);
+}
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: var(--color-primary);
+  padding: 1rem;
+  width: 100%;
+  position: relative;
+  z-index: 10;
+}
+
+.banner-section {
+  background: url('/images/banner.jpg') no-repeat center center;
+  background-size: cover;
+  color: white;
+  position: relative;
+  padding: 4rem 1rem;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: invert(100%);
+}

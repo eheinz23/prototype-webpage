@@ -1,0 +1,87 @@
+{
+  "title_homepage": "Herzlich Willkommen",
+  "text_homepage": "Das ist die Homepage für mein kleines Fotografie Projekt.",
+  "title_secondpage": "Übersicht",
+  "text_secondpage": "Hier werden Accordionelementeund Cards angezeigt.",
+  "title_nav": "Prototyp Projekt",
+  "moreInfo": "Mehr erfahren",
+  "secondPage": "Zweite Seite",
+  "startpage": "Startseite",
+  "example_head": "Willkommen auf unserer Seite",
+  "example_text_first": "Dies ist ein Beispieltext zwischen dem Karussell und dem Footer. Hier können beliebige Inhalte eingefügt werden.",
+  "example_text_second": "VueJS ermöglicht eine einfache und reaktive Benutzeroberfläche.",
+  "example_text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+  "welcome_second": "Dies ist die zweite Seite",
+  "welcome_lead": "Hier kannst du weitere Inhalte anzeigen.",
+  "carousel": {
+    "title1": "Titel 1",
+    "desc1": "Beschreibung für das erste Bild.",
+    "title2": "Titel 2",
+    "desc2": "Beschreibung für das zweite Bild.",
+    "title3": "Titel 3",
+    "desc3": "Beschreibung für das dritte Bild.",
+    "title4": "Titel 4",
+    "desc4": "Beschreibung für das vierte Bild.",
+    "title5": "Titel 5",
+    "desc5": "Beschreibung für das fünfte Bild.",
+    "title6": "Titel 6",
+    "desc6": "Beschreibung für das letzte Bild."
+  },
+  "accordion": {
+    "item_1": {
+      "title": "Erster Titel",
+      "body": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut."
+    },
+    "item_2": {
+      "title": "Zweiter Titel",
+      "body": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut."
+    },
+    "item_3": {
+      "title": "Dritter Titel",
+      "body": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut."
+    },
+    "item_4": {
+      "title": "Titel Nr. 4",
+      "body": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut."
+    },
+    "item_5": {
+      "title": "Titel Nr. 5",
+      "body": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut."
+    }
+  },
+  "article": {
+    "relevance": "Relevanz:",
+    "not_found": "Kein Artikel gefunden."
+  },
+  "cards": {
+    "cardId_a1234": {
+      "title": "Erste Karte",
+      "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut."
+    },
+    "cardId_b5678": {
+      "title": "Zweite Karte",
+      "text": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+    },
+    "cardId_c6789": {
+      "title": "Andere Karte",
+      "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut."
+    },
+    "cardId_d1234": {
+      "title": "Weitere Karte",
+      "text": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+    }
+  },
+  "footer": "2025 Meine Seite. Alle Rechte vorbehalten.",
+  "language": {
+    "de": "Deutsch",
+    "en": "Englisch"
+  },
+  "gallery": {
+    "title": "Galerie",
+    "description": "Willkommen in unserer Galerie!",
+    "text1": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+    "text2": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+    "text3": " Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+  },
+  "sourcePhoto": "Fotoquelle: https://www.pexels.com"
+}

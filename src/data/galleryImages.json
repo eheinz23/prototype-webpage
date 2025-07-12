@@ -1,0 +1,29 @@
+[
+  {
+    "type": "text",
+    "i18nKey": "gallery.text1"
+  },
+  {
+    "type": "parallax",
+    "src": "/images/stockphoto1.jpg",
+    "alt": "Bild 1"
+  },
+  {
+    "type": "text",
+    "i18nKey": "gallery.text2"
+  },
+  {
+    "type": "parallax",
+    "src": "/images/stockphoto4.jpg",
+    "alt": "Bild 2"
+  },
+  {
+    "type": "text",
+    "i18nKey": "gallery.text3"
+  },
+  {
+    "type": "parallax",
+    "src": "/images/stockphoto3.jpg",
+    "alt": "Bild 3"
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "title_homepage": "Welcome",
+  "text_homepage": "This is the homepage for my little photography project.",
+  "title_secondpage": "Overview",
+  "text_secondpage": "Accordion elements and cards are displayed here.",
+  "title_nav": "Prototype project",
+  "moreInfo": "Learn More",
+  "secondPage": "Second Page",
+  "startpage": "Home page",
+  "example_head": "Welcome to our site",
+  "example_text_first": "This is a sample text between the carousel and the footer. Any content can be inserted here.",
+  "example_text_second": "VueJS enables a simple and reactive user interface.",
+  "example_text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+  "welcome_second": "This is the second page",
+  "welcome_lead": "You can view more content here.",
+  "carousel": {
+    "title1": "Title 1",
+    "desc1": "Description for the first image.",
+    "title2": "Title 2",
+    "desc2": "Description for the second image.",
+    "title3": "Title 3",
+    "desc3": "Description for the third image.",
+    "title4": "Title 4",
+    "desc4": "Description for the fourth image.",
+    "title5": "Title 5",
+    "desc5": "Description for the fifth image.",
+    "title6": "Title 6",
+    "desc6": "Description for the last image."
+  },
+  "accordion": {
+    "item_1": {
+      "title": "First Title",
+      "body": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut."
+    },
+    "item_2": {
+      "title": "Second Titel",
+      "body": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut."
+    },
+    "item_3": {
+      "title": "Third Title",
+      "body": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut."
+    },
+    "item_4": {
+      "title": "Title Nr. 4",
+      "body": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut."
+    },
+    "item_5": {
+      "title": "Title Nr. 5",
+      "body": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut."
+    }
+  },
+  "article": {
+    "relevance": "Relevance:",
+    "not_found": "No article found."
+  },
+  "cards": {
+    "cardId_a1234": {
+      "title": "First Card",
+      "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut."
+    },
+    "cardId_b5678": {
+      "title": "Second Card",
+      "text": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+    },
+    "cardId_c6789": {
+      "title": "Another Card",
+      "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut."
+    },
+    "cardId_d1234": {
+      "title": "Other Card",
+      "text": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+    }
+  },
+  "footer": "2025 My page. All rights reserved.",
+  "language": {
+    "de": "German",
+    "en": "English"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "description": "Welcome to our gallery!",
+    "text1": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+    "text2": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+    "text3": " Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+  },
+  "sourcePhoto": "Photoquelle: https://www.pexels.com"
+}

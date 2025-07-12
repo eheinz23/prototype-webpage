@@ -1,0 +1,96 @@
+.banner-section {
+  background: url('./images/IMG_7708.jpg') no-repeat center center;
+  background-size: cover;
+  color: var(--bs-white);
+  min-height: 500px;
+  display: flex;
+  align-items: center;
+}
+
+.btn-transparent {
+  background-color: var(--bg-transparent);
+  border: 1px solid white;
+  color: var(--bs-white);
+}
+
+.btn-transparent:hover {
+  background-color:  var(--bg-transparent);
+  color: var(--bs-white);
+}
+
+.navbar-transparent {
+  background-color: var(--bg-transparent);
+  backdrop-filter: blur(5px);
+}
+
+.carousel-wrapper {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.carousel-inner-wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.slider-card {
+  flex: 0 0 33%;
+  max-height: 50vh;
+  text-align: center;
+  border-radius: 8px;
+  background-color: var(--bg-slider-card);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.slider-card p {
+  padding: 15px;
+}
+
+.slider-card img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+  object-fit: cover;
+}
+
+.accordion-button:not(.collapsed) {
+  color: var(--bs-white);
+  background-color: var(--bs-gray-dark);
+}
+
+.accordion-button:focus {
+  box-shadow: 0 0 0 0.1rem var(--bs-gray-dark); /* Optional: grauer Glow */
+  border-color: var(--bs-gray-dark);
+}
+
+.accordion-button:not(.collapsed)::after {
+  filter: invert(0.5); /* Macht den Pfeil weiß */
+}
+
+/* Sprach-Select transparent gestalten */
+.form-select {
+  background-color: var(--bs-transparent);
+  color: var(--bs-white);
+  border: 1px solid white;
+  padding: 0.375rem 0.75rem;
+  border-radius: 0.25rem;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  cursor: pointer;
+}
+
+.select-input {
+  background: white;
+}
+
+footer {
+  height: 200px;
+  background-color: var(--bs-gray-dark);
+  color: var(--bs-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: auto;
+}

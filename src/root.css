@@ -1,0 +1,108 @@
+:root {
+  --color-white: #ffffff;
+  --color-light-grey: #F0F0F0;
+  --color-grey: #3E3F3F;
+  --color-dark-grey: #1A1A1A;
+  --color-bg: #121212;
+  --color-primary: #ffffff;
+  --color-secondary: #aaaaaa;
+  --color-border: rgba(255, 255, 255, 0.2);
+
+  --font-base: 'Segoe UI', sans-serif;
+  --transition-fast: 0.2s ease-in-out;
+
+  --color-accent: #00d1b2;
+  --text-accordion: var(--color-white);
+  --text-light: #ffffff;
+  --text-dark: #333;
+
+  /* Light Theme */
+  --background-color: var(--color-light-grey);
+  --bg-burgermenu: rgba(1, 1, 1, 0.8);
+  --bg-accordion: var(--color-grey);
+  --card-background: var(--color-light-grey);
+
+  --text-color: var(--color-grey);
+  --title-color: var(--color-light-grey);
+  --primary-color: var(--color-light-grey);
+
+  --border-color: var(--color-grey);
+
+}
+
+[data-theme="dark"] {
+  --background-color: var(--color-grey);
+  --bg-burgermenu: rgba(0, 0, 0, 0.9);
+  --bg-accordion: var(--color-dark-grey);
+  --card-background: var(--color-grey);
+
+  --text-accordion: var(--color-light-grey);
+  --text-color: var(--color-light-grey);
+  --title-color: var(--color-light-grey);
+  --primary-color: var(--color-grey);
+
+  --border-color: var(--color-light-grey);
+}
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-base);
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Mobile Text */
+@media (max-width: 767px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  p {
+    font-size: 1rem;
+  }
+}
+
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+select, .btn, .btn:hover {
+  background-color: rgba(0,0,0,0.5)!important;
+  color: var(--color-white)!important;
+}
+
+select:focus {
+  background-color: rgba(0,0,0,0.5)!important;
+  color: var(--color-white);
+  outline: none;
+  box-shadow: none;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+footer {
+  height: 200px;
+  background-color: var(--color-dark-grey);
+  color: var(--color-white);
+  text-align: center;
+  padding: 2rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: auto;
+}
